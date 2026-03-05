@@ -24,7 +24,7 @@ class CatalogPage extends StatelessWidget {
         centerTitle: true,
         actions: [
           IconButton(
-            icon: const Icon(Icons.shopping_cart, color: Colors.white,),
+            icon: const Icon(Icons.shopping_cart,),
             onPressed: () => Navigator.pushNamed(context, AppRouter.cart),
           ),
         ],
