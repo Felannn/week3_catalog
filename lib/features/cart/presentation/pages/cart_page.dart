@@ -10,7 +10,10 @@ class CartPage extends StatelessWidget {
     var cart = context.watch<CartProvider>();
 
     return Scaffold(
-      appBar: AppBar(title: const Text('Keranjang Belanja' )),
+      appBar: AppBar(
+        title: const Text('Keranjang Belanja' ),
+        centerTitle: true,
+      ),
       body: Column(
         children: [
           Expanded(
