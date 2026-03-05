@@ -46,8 +46,7 @@ lib/
 ```
 
 ### View
-
 <p align="center">
-  <img src="" width="300"/>
-  <img src="" width="300"/>
+  <img src="https://github.com/user-attachments/assets/9d7ff00b-e76c-4962-841a-2bfc494c0f93" width="300"/>
+  <img src="https://github.com/user-attachments/assets/c26ffc95-1be1-4c43-bf60-55258f4b90dd" width="300"/>
 </p>
